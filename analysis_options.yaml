@@ -1,0 +1,8 @@
+analyzer:
+  exclude:
+    - build/**
+    - android/**
+    - web/**
+  errors:
+    # Ödevde yalnızca material.dart kullanılması istendiği için bu uyarı kapatıldı
+    deprecated_member_use: ignore

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Kablosuz Kulaklık",
+    "category": "Elektronik",
+    "price": 1499.90,
+    "description": "Gürültü azaltma özellikli, 30 saate kadar pil ömrü sunan kulak üstü kablosuz kulaklık.",
+    "image": "assets/images/product_1.png"
+  },
+  {
+    "id": 2,
+    "name": "Akıllı Saat",
+    "category": "Elektronik",
+    "price": 3299.00,
+    "description": "Adım sayar, nabız ölçer ve bildirim desteği olan, suya dayanıklı akıllı saat.",
+    "image": "assets/images/product_2.png"
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Hoparlör",
+    "category": "Elektronik",
+    "price": 899.50,
+    "description": "Kompakt boyutlu, güçlü bas sesi ve 12 saat çalma süresi olan taşınabilir hoparlör.",
+    "image": "assets/images/product_3.png"
+  },
+  {
+    "id": 4,
+    "name": "Sırt Çantası",
+    "category": "Aksesuar",
+    "price": 749.00,
+    "description": "Laptop bölmeli, su itici kumaştan üretilmiş günlük kullanım için sırt çantası.",
+    "image": "assets/images/product_4.png"
+  },
+  {
+    "id": 5,
+    "name": "Çelik Termos",
+    "category": "Ev ve Yaşam",
+    "price": 429.90,
+    "description": "İçeceğinizi 12 saat sıcak, 24 saat soğuk tutan 500 ml paslanmaz çelik termos.",
+    "image": "assets/images/product_5.png"
+  },
+  {
+    "id": 6,
+    "name": "Koşu Ayakkabısı",
+    "category": "Spor",
+    "price": 1899.00,
+    "description": "Hafif tabanlı, nefes alan kumaşa sahip günlük koşu ve yürüyüş ayakkabısı.",
+    "image": "assets/images/product_6.png"
+  },
+  {
+    "id": 7,
+    "name": "Güneş Gözlüğü",
+    "category": "Aksesuar",
+    "price": 659.00,
+    "description": "UV400 korumalı, polarize camlı, hafif çerçeveli güneş gözlüğü.",
+    "image": "assets/images/product_7.png"
+  },
+  {
+    "id": 8,
+    "name": "Seramik Kupa Seti",
+    "category": "Ev ve Yaşam",
+    "price": 279.00,
+    "description": "El yapımı görünümlü, bulaşık makinesinde yıkanabilen 4'lü seramik kupa seti.",
+    "image": "assets/images/product_8.png"
+  },
+  {
+    "id": 9,
+    "name": "Yoga Matı",
+    "category": "Spor",
+    "price": 389.90,
+    "description": "Kaymaz yüzeyli, 6 mm kalınlığında, taşıma askılı yoga ve pilates matı.",
+    "image": "assets/images/product_9.png"
+  },
+  {
+    "id": 10,
+    "name": "Masa Lambası",
+    "category": "Ev ve Yaşam",
+    "price": 549.00,
+    "description": "Üç farklı ışık tonu ve dokunmatik açma kapama özelliği olan LED masa lambası.",
+    "image": "assets/images/product_10.png"
+  }
+]
